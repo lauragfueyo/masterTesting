@@ -1,0 +1,12 @@
+# Ignorar el contenido de carpetas
+.DS_Store
+dist/
+*.orig
+.idea/
+bundle.js
+package-lock.json
+.awcache/
+yarn.lock
+coverage/
+public/
+node_modules

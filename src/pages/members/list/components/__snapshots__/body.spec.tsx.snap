@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pages/members/list/components/body tests should render as expected when passing required properties 1`] = `
+<tbody>
+  <Component
+    key="1"
+    member={
+      Object {
+        "avatarUrl": "test url",
+        "id": 1,
+        "name": "test name",
+      }
+    }
+  />
+</tbody>
+`;
